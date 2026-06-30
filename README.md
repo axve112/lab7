@@ -10,4 +10,4 @@
 最后积分求解器实现。
 代码运行效果如下：
 
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/a5418c13-91c5-4cb1-bda4-b3182fab9da8" />
+<img width="800" height="800" alt="ezgif-571d840d1ab82120" src="https://github.com/user-attachments/assets/bba1cd8d-5fa7-427f-834a-4c661a207e71" />
